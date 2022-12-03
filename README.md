@@ -2,6 +2,8 @@
 
 Daniweb.tech project is a daniweb front-end website with technology and digital marketing concept and design. Created in Bootstrap, HTML, Javascript, CSS and Jquery. Its a frontend design perfect for technology-based companies wrap-up with user-enhanced and user-interfaced feature capabilities.
 
+https://user-images.githubusercontent.com/109225953/205464911-499b0bc3-ae73-40d9-a80b-a9db30567bfa.mp4
+
 ---
 
 **Installation**
